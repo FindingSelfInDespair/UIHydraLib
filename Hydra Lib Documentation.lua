@@ -1,4 +1,4 @@
-local UILib = loadstring(game:HttpGet('https://raw.githubusercontent.com/StepBroFurious/Script/main/HydraHubUi.lua'))()
+local UILib = loadstring(game:HttpGet('https://raw.githubusercontent.com/FindingSelfInDespair/UIHydraLib/refs/heads/main/UILib.lua'))()
 local Window = UILib.new(gameName, userID, rank)
 
 -- Available functions: Window:Notification({Title = Title, Description = Description}) & prompt, same parameters
